@@ -36,7 +36,7 @@ in order to work usefully.
 
    The shell processes commands by reading lines and then splitting
 them up into words using whitespace characters (space, tab, carriage
-return, and newline) as separators. No punctuation characters are
+return, and newline) as separatorsgggggggg. No punctuation characters are
 interpreted, except for `&'. No variable substitution or argument
 wildcard expansion ("globbing") is performed.
 
